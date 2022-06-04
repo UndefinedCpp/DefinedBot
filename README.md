@@ -1,5 +1,8 @@
 # DefinedBot
-My personal bot for Screeps: World
+My personal bot for Screeps: World.
 
+## Warning
 
-**WARNING: THIS REPO IS CURRENTLY TREATED AS A BACKUP ONLY! POSSIBLY THE REPO *WON'T* UPDATE IN A FEW WEEKS OR SO.**
+⚠️**This repo is not meant to be updated for the time being! I don't have much time doing this now!**
+
+*The bot **will** be implemented anyway in the future however!*
